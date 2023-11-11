@@ -1,6 +1,6 @@
 # PERSONAL PORTFOLIO
 
-![TRAVEL DIARIES](./SCREENSHOT.png)
+![TRAVEL DIARIES](./person-portfolio.png)
 
 This is my personal portfolio website where I showcase my works relating to web design and development and provide information about myself and work. This is where you will get more inspirational design.
 
